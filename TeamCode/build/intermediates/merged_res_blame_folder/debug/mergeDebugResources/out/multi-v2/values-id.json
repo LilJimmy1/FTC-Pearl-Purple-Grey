@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.firstinspires.ftc.teamcode.TeamCode-mergeDebugResources-43:/values-id/values-id.xml",
+            "map": [
+                {
+                    "source": "/Users/manavparmar/.gradle/caches/8.9/transforms/28083aa808ed599d13858552baabc696/transformed/core-1.51.0/res/values-id/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "215,261,313,426,540",
+                        "endColumns": "45,51,112,113,84",
+                        "endOffsets": "260,312,425,539,624"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,105,161,278,396",
+                        "endColumns": "49,55,116,117,88",
+                        "endOffsets": "100,156,273,391,480"
+                    }
+                },
+                {
+                    "source": "/Users/manavparmar/.gradle/caches/8.9/transforms/54327fc486dba706935927183821c8d8/transformed/zxing-android-embedded-4.3.0/res/values-id/values-id.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,114,161,293",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "109,156,288,397"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "485,544,591,723",
+                        "endColumns": "58,46,131,108",
+                        "endOffsets": "539,586,718,827"
+                    }
+                }
+            ]
+        }
+    ]
+}

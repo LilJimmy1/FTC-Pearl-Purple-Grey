@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.firstinspires.ftc.teamcode.TeamCode-mergeDebugResources-43:/values-es-rPY/values-es-rPY.xml",
+            "map": [
+                {
+                    "source": "/Users/manavparmar/.gradle/caches/8.9/transforms/28083aa808ed599d13858552baabc696/transformed/core-1.51.0/res/values-es-rPY/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "219,268,320,444,576",
+                        "endColumns": "48,51,123,131,88",
+                        "endOffsets": "267,319,443,575,664"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,108,164,292,428",
+                        "endColumns": "52,55,127,135,92",
+                        "endOffsets": "103,159,287,423,516"
+                    }
+                }
+            ]
+        }
+    ]
+}
